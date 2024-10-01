@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>OnsightNOWIdaChat - Test Page - Container 1</name>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_page display_value="onsightnowidachat">822a980cc3c112101be03d0ed40131b2</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-29 19:35:55</sys_created_on>
+        <sys_id>022ad8ccc3c112101be03d0ed401314c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OnsightNOWIdaChat - Test Page - Container 1</sys_name>
+        <sys_package display_value="Onsight NOW Ida Chat" source="x_1494535_onsigh_1">9ae9544cc3c112101be03d0ed401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Onsight NOW Ida Chat">9ae9544cc3c112101be03d0ed401319e</sys_scope>
+        <sys_update_name>sp_container_022ad8ccc3c112101be03d0ed401314c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-29 19:35:55</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Onsight NOW Ida Chat">9ae9544cc3c112101be03d0ed401319e</application>
+        <file_path/>
+        <instance_id>d70e81911b42c2d019254089bd4bcbf4</instance_id>
+        <instance_name>dev264882</instance_name>
+        <name>sp_container_022ad8ccc3c112101be03d0ed401314c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>OnsightNOWIdaChat - Test Page - Container 1</name><order>1</order><semantic_tag/><sp_page display_value="onsightnowidachat">822a980cc3c112101be03d0ed40131b2</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-29 19:35:55</sys_created_on><sys_id>022ad8ccc3c112101be03d0ed401314c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>OnsightNOWIdaChat - Test Page - Container 1</sys_name><sys_package display_value="Onsight NOW Ida Chat" source="x_1494535_onsigh_1">9ae9544cc3c112101be03d0ed401319e</sys_package><sys_policy/><sys_scope display_value="Onsight NOW Ida Chat">9ae9544cc3c112101be03d0ed401319e</sys_scope><sys_update_name>sp_container_022ad8ccc3c112101be03d0ed401314c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-29 19:35:55</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>1497044226</payload_hash>
+        <record_name>OnsightNOWIdaChat - Test Page - Container 1</record_name>
+        <reverted_from/>
+        <source>62e9944cc3c112101be03d0ed401315f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-29 19:35:55</sys_created_on>
+        <sys_id>0e2ad8ccc3c112101be03d0ed401314f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1923f484b8f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-29 19:35:55</sys_updated_on>
+        <type>Container</type>
+        <update_guid>022ad8cc54c11210ebef399f62c61c4f</update_guid>
+        <update_guid_history>022ad8cc54c11210ebef399f62c61c4f:1497044226</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="OnsightNOWIdaChat - Test Page - Container 1">95c04718c3c59a101be03d0ed4013168</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-01 02:22:21</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>3ea2cce149af4f23965c02c749fb5629</sys_id>
+        <sys_metadata>022ad8ccc3c112101be03d0ed401314c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OnsightNOWIdaChat - Test Page - Container 1</sys_name>
+        <sys_package display_value="Onsight NOW Ida Chat" source="x_1494535_onsigh_1">9ae9544cc3c112101be03d0ed401319e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Onsight NOW Ida Chat">9ae9544cc3c112101be03d0ed401319e</sys_scope>
+        <sys_scope_delete display_value="">7f66230d877f481cbdf19618c5abc009</sys_scope_delete>
+        <sys_update_name>sp_container_022ad8ccc3c112101be03d0ed401314c</sys_update_name>
+        <sys_update_version display_value="sp_container_022ad8ccc3c112101be03d0ed401314c">0e2ad8ccc3c112101be03d0ed401314f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-01 02:22:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

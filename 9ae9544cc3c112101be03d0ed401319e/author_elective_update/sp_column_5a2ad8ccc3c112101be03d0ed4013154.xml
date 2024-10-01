@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <semantic_tag/>
+        <size/>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">c22ad8ccc3c112101be03d0ed4013150</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-29 19:35:55</sys_created_on>
+        <sys_id>5a2ad8ccc3c112101be03d0ed4013154</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Onsight NOW Ida Chat" source="x_1494535_onsigh_1">9ae9544cc3c112101be03d0ed401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Onsight NOW Ida Chat">9ae9544cc3c112101be03d0ed401319e</sys_scope>
+        <sys_update_name>sp_column_5a2ad8ccc3c112101be03d0ed4013154</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-29 19:35:55</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Onsight NOW Ida Chat">9ae9544cc3c112101be03d0ed401319e</application>
+        <file_path/>
+        <instance_id>d70e81911b42c2d019254089bd4bcbf4</instance_id>
+        <instance_name>dev264882</instance_name>
+        <name>sp_column_5a2ad8ccc3c112101be03d0ed4013154</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><semantic_tag/><size/><size_lg/><size_sm/><size_xs/><sp_row display_value="1">c22ad8ccc3c112101be03d0ed4013150</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-29 19:35:55</sys_created_on><sys_id>5a2ad8ccc3c112101be03d0ed4013154</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Onsight NOW Ida Chat" source="x_1494535_onsigh_1">9ae9544cc3c112101be03d0ed401319e</sys_package><sys_policy/><sys_scope display_value="Onsight NOW Ida Chat">9ae9544cc3c112101be03d0ed401319e</sys_scope><sys_update_name>sp_column_5a2ad8ccc3c112101be03d0ed4013154</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-29 19:35:55</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-541863338</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>62e9944cc3c112101be03d0ed401315f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-29 19:35:55</sys_created_on>
+        <sys_id>9e2ad8ccc3c112101be03d0ed4013170</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1923f484bf10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-29 19:35:55</sys_updated_on>
+        <type>Column</type>
+        <update_guid>922ad8cc37c1121037fb4bb52d32e970</update_guid>
+        <update_guid_history>922ad8cc37c1121037fb4bb52d32e970:-541863338</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">a1c04718c3c59a101be03d0ed401317a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-01 02:22:21</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>48b5b75a695e45288e914197d7cfaef1</sys_id>
+        <sys_metadata>5a2ad8ccc3c112101be03d0ed4013154</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Onsight NOW Ida Chat" source="x_1494535_onsigh_1">9ae9544cc3c112101be03d0ed401319e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Onsight NOW Ida Chat">9ae9544cc3c112101be03d0ed401319e</sys_scope>
+        <sys_scope_delete display_value="">7f66230d877f481cbdf19618c5abc009</sys_scope_delete>
+        <sys_update_name>sp_column_5a2ad8ccc3c112101be03d0ed4013154</sys_update_name>
+        <sys_update_version display_value="sp_column_5a2ad8ccc3c112101be03d0ed4013154">9e2ad8ccc3c112101be03d0ed4013170</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-01 02:22:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>oauth2</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description>Post new chat update to Ida.</description>
+        <name>OnsightNOW Ida Chat</name>
+        <oauth2_profile display_value="OnsightNOWAuthProvider default_profile">cba4ab71c390d6101be03d0ed40131c9</oauth2_profile>
+        <protocol_name/>
+        <rest_endpoint>https://demo-api.onsightnow.com/ida</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 22:44:17</sys_created_on>
+        <sys_id>149e821cc3855a101be03d0ed4013131</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OnsightNOW Ida Chat</sys_name>
+        <sys_package display_value="Onsight NOW Ida Chat" source="x_1494535_onsigh_1">9ae9544cc3c112101be03d0ed401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Onsight NOW Ida Chat">9ae9544cc3c112101be03d0ed401319e</sys_scope>
+        <sys_update_name>sys_rest_message_149e821cc3855a101be03d0ed4013131</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 22:44:17</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>
